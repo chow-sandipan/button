@@ -1,0 +1,140 @@
+.btn {
+    background-color: #4CAF50; /* Green */
+    color: #ffffff; /* White */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background-color: #3e8e41; /* Darker green on hover */
+  }
+  
+  .btn-primary {
+    background-color: #337ab7; /* Blue */
+    color: #ffffff; /* White */
+  }
+  
+  .btn-secondary {
+    background-color: #666; /* Gray */
+    color: #ffffff; /* White */
+  }
+  
+  .btn-danger {
+    background-color: #ff0000; /* Red */
+    color: #ffffff; /* White */
+  }.btn-lg {
+    padding: 15px 30px;
+    font-size: 18px;
+  }
+  
+  .btn-sm {
+    padding: 5px 10px;
+    font-size: 12px;
+  }
+
+  .btn {
+    background-color: #4CAF50; /* Green */
+    color: #ffffff; /* White */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .btn:hover {
+    background-color: #3e8e41; /* Darker green on hover */
+  }
+  
+  .btn-primary {
+    background-color: #337ab7; /* Blue */
+    color: #ffffff; /* White */
+  }
+  
+  .btn-secondary {
+    background-color: #666; /* Gray */
+    color: #ffffff; /* White */
+  }
+  
+  .btn-danger {
+    background-color: #ff0000; /* Red */
+    color: #ffffff; /* White */
+  }.btn-lg {
+    padding: 15px 30px;
+    font-size: 18px;
+  }
+  
+  .btn-sm {
+    padding: 5px 10px;
+    font-size: 12px;
+  }.btn {
+    background-color: #4CAF50; /* Green */
+    color: #ffffff; /* White */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: box-shadow 0.3s; /* Add transition effect */
+  }
+  
+  .btn:hover {
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.5); /* Add glow effect */
+    background-color: #3e8e41; /* Darker green on hover */
+  }
+  
+  .btn-primary {
+    background-color: #337ab7; /* Blue */
+    color: #ffffff; /* White */
+  }
+  
+  .btn-secondary {
+    background-color: #666; /* Gray */
+    color: #ffffff; /* White */
+  }
+  
+  .btn-danger {
+    background-color: #ff0000; /* Red */
+    color: #ffffff; /* White */
+  }.btn {
+    background-color: #4CAF50; /* Green */
+    color: #ffffff; /* White */
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: box-shadow 0.3s; /* Add transition effect */
+  }
+  
+  .btn:hover {
+    box-shadow: 0 0 10px rgba(255, 255, 255, 0.5); /* Add glow effect */
+    background-color: #3e8e41; /* Darker green on hover */
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.5); /* Add glow effect to text */
+  }
+  
+  .btn-primary {
+    background-color: #337ab7; /* Blue */
+    color: #ffffff; /* White */
+  }
+  
+  .btn-primary:hover {
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.5); /* Add glow effect to text */
+  }
+  
+  .btn-secondary {
+    background-color: #666; /* Gray */
+    color: #ffffff; /* White */
+  }
+  
+  .btn-secondary:hover {
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.5); /* Add glow effect to text */
+  }
+  
+  .btn-danger {
+    background-color: #ff0000; /* Red */
+    color: #ffffff; /* White */
+  }
+  
+  .btn-danger:hover {
+    text-shadow: 0 0 10px rgba(255, 255, 255, 0.5); /* Add glow effect to text */
+  }
